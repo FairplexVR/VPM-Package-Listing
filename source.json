@@ -14,6 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "FairplexVR/AgX-Tonemapping-Unity",
+        "FairplexVR/Tony-McMapface-Tonemapping-Unity"
     ]
 }
