@@ -1,20 +1,18 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Fairplex's VPM Repo",
+    "id":"io.github.fairplex.vpm",
+    "url":"https://fairplexvr.github.io/VPM-Package-Listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"Fairplex",
+        "url":"https://github.com/FairplexVR"
     },
-    "description":"My VRChat packages",
+    "description":"Fairplex's VPM packages.",
     "infoLink":{
         "url":"https://github.com/FairplexVR/VPM-Package-Listing",
-        "text":"View on GitHub"
+        "text":"How to use (Readme)"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
-        "FairplexVR/AgX-Tonemapping-Unity",
-        "FairplexVR/Tony-McMapface-Tonemapping-Unity"
+        "FairplexVR/AgX-Tonemapping-Unity"
     ]
 }
